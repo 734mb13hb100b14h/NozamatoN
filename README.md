@@ -1,0 +1,2 @@
+# hajime
+just another website
