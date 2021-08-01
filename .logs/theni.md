@@ -3,7 +3,7 @@
 Discussion about what to do, and how to proceed. 
 
 We decided we will make a E-commerce website with basic functionalities for two sides- Consumers and Vendors.
-Spsk handles vendor side while I take care of research on consumer.
+Spsk handles vendor side while I take care of consumer.
 
 My Assigned part- Research on Consumer Side Functionalities.
 Based On my prior projects and research dones I have listed the functionalities to be focused on for our current work.
