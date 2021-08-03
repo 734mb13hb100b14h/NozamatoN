@@ -41,4 +41,24 @@ I came up with NotAmazon, but NozamatoN, the reverse of NotAmazon sounded more i
 I have suggested it to theni, lets see how he reacts to it.
 
 ## Day 3 - 2nd August, 2021
-Okay ....
+Not much progress today, was very tired today (I didn't have much sleep last night) and it was the first day of sem so, I just relaxed (I was lazy).
+
+However I started documentation of the installation process so that the vandana and theninpan can install it on their system.
+
+But soon I was struck with another **Idea**.
+Well it was already in my mind, I just think it would work. So decided I would implement it tomorrow.
+
+**Keep reading if you want to know what I did.**
+
+## Day 4 - 3rd August, 2021
+Today I completed the Installation procedure document. I came out to be quite good, but there are some additional characted that I miss typed.
+
+As I mentioned earlier the **Idea** that struck me was using my raspberry pi cluster to deploy the django application.
+I decided this would be better that using heroku, since its just a project and only three of us are working on it.
+
+I configured the OS and installed the required packages.
+
+Also install Django 3.6.2
+
+## Day 5 - 4th August, 2021
+
